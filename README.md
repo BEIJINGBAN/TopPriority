@@ -15,7 +15,7 @@
 ### 2. 任务编辑与优先级评估
 双击任务即可修改。通过 5x5 矩阵（重要度 × 紧急度）自动计算任务权重并排序。
 
-![交互与编辑](img_1.png)<img width="586" height="598" alt="img_1" src="https://github.com/user-attachments/assets/a7f920f4-1580-420e-a782-5b5533802433" />
+![交互与编辑]<img width="586" height="598" alt="img_1" src="https://github.com/user-attachments/assets/a7f920f4-1580-420e-a782-5b5533802433" />
 
 
 ### 3. 历史复盘浏览器
