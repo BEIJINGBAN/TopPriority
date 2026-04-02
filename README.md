@@ -9,17 +9,20 @@
 ### 1. 核心主界面 (置顶模式)
 窗口始终保持在屏幕最上层，支持透明感配色，不遮挡核心工作区。
 
-![主界面](img.png)
+![主界面](<img width="830" height="1312" alt="img" src="https://github.com/user-attachments/assets/c6ce4d6e-9041-4a3d-ba2e-556a83e36319" />
+
 
 ### 2. 任务编辑与优先级评估
 双击任务即可修改。通过 5x5 矩阵（重要度 × 紧急度）自动计算任务权重并排序。
 
-![交互与编辑](img_1.png)
+![交互与编辑](img_1.png)<img width="586" height="598" alt="img_1" src="https://github.com/user-attachments/assets/a7f920f4-1580-420e-a782-5b5533802433" />
+
 
 ### 3. 历史复盘浏览器
 内置强大的历史记录功能，按日期自动归档，帮助你进行日终总结。
 
-![历史查看](img_2.png)
+![历史查看]
+<img width="1121" height="945" alt="img_2" src="https://github.com/user-attachments/assets/ea536e1c-2403-4232-8ab0-826f386001dd" />
 
 ---
 
