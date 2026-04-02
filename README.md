@@ -9,7 +9,7 @@
 ### 1. 核心主界面 (置顶模式)
 窗口始终保持在屏幕最上层，支持透明感配色，不遮挡核心工作区。
 
-![主界面](<img width="830" height="1312" alt="img" src="https://github.com/user-attachments/assets/c6ce4d6e-9041-4a3d-ba2e-556a83e36319" />
+![主界面]<img width="830" height="1312" alt="img" src="https://github.com/user-attachments/assets/c6ce4d6e-9041-4a3d-ba2e-556a83e36319" />
 
 
 ### 2. 任务编辑与优先级评估
