@@ -7,7 +7,7 @@ from datetime import datetime
 class ApexTaskMaster:
     def __init__(self, root):
         self.root = root
-        self.root.title("Apex Task-Master Pro")
+        self.root.title("Task-Master")
         self.root.geometry("550x850+100+100")
         self.root.attributes("-topmost", True)
         self.root.configure(bg="#ffffff")
@@ -17,6 +17,16 @@ class ApexTaskMaster:
         else:
             base_path = os.path.dirname(os.path.abspath(__file__))
         self.data_file = os.path.join(base_path, "apex_tasks.json")
+
+        icon_path = os.path.join(base_path, "app.ico")
+
+        # 2. 设置窗口左上角图标 (添加这一行)
+        # 使用 try-except 是为了防止图标文件丢失导致整个程序崩溃
+        try:
+            self.root.iconbitmap(icon_path)
+        except Exception:
+            pass
+
 
         self.is_locked = False
         self.cb_vars = {}
