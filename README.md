@@ -78,5 +78,19 @@ python ApexTaskMaster.py
 如果你修改了源码并想重新封装成单文件 EXE，请在终端执行以下语句：
 
 ```bash
-pyinstaller --noconsole --onefile --icon=app.ico ApexTaskMaster.py
+ pyinstaller --name TaskMaster --noconsole --onefile --icon=app.ico TopPriorityApp.py
 ```
+
+
+
+
+
+## 仍需完善内容
+
+2.战略目标无法增加内容就扩大板块
+
+7.长期目标自动继承
+
+8.紧急和重要不对称
+
+10.浏览历史，不会更新，到了4.3号，历史浏览只会显示4.2号的，而且4.3日改了会影响到4.2号的内容，应该是到了4.3号，能看4.2号的，会成立一个新的4.3，现在改哪个都只有4.2号
